@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Artwork_12" data-name="Artwork 12" transform="translate(48 48)">
+    <g id="Group_856" data-name="Group 856" transform="translate(-48 -48)">
+      <rect id="Rectangle_655" data-name="Rectangle 655" width="96" height="96" fill="#fff" opacity="0"/>
+      <path id="Rectangle_656" data-name="Rectangle 656" d="M0,0H68a0,0,0,0,1,0,0V2a4,4,0,0,1-4,4H4A4,4,0,0,1,0,2V0A0,0,0,0,1,0,0Z" transform="translate(14 66)" fill="#cc9d5c"/>
+      <path id="Rectangle_657" data-name="Rectangle 657" d="M0,0H62a0,0,0,0,1,0,0V40a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(79 66) rotate(180)" fill="#a6764e"/>
+      <path id="Rectangle_658" data-name="Rectangle 658" d="M0,0H56a0,0,0,0,1,0,0V35a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V0A0,0,0,0,1,0,0Z" transform="translate(76 63) rotate(180)" fill="#fff9f2"/>
+      <path id="Rectangle_659" data-name="Rectangle 659" d="M0,0H20a0,0,0,0,1,0,0V0a3,3,0,0,1-3,3H3A3,3,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(38 66)" fill="#edf5fa"/>
+      <path id="Path_2831" data-name="Path 2831" d="M28.688,46.987a14.763,14.763,0,0,1,0-16.987" fill="none" stroke="#3dccc0" stroke-linecap="round" stroke-width="4"/>
+      <path id="Path_2832" data-name="Path 2832" d="M67,41a14.763,14.763,0,0,1,0,16.987" fill="none" stroke="#29afcc" stroke-linecap="round" stroke-width="4"/>
+      <rect id="Rectangle_660" data-name="Rectangle 660" width="8" height="4" rx="2" transform="translate(35 34)" fill="#29afcc"/>
+      <rect id="Rectangle_661" data-name="Rectangle 661" width="15" height="4" rx="2" transform="translate(46 34)" fill="#29afcc"/>
+      <rect id="Rectangle_662" data-name="Rectangle 662" width="10" height="4" rx="2" transform="translate(35 42)" fill="#29afcc"/>
+      <rect id="Rectangle_663" data-name="Rectangle 663" width="13" height="4" rx="2" transform="translate(48 42)" fill="#29afcc"/>
+      <rect id="Rectangle_664" data-name="Rectangle 664" width="16" height="4" rx="2" transform="translate(45 50)" fill="#29afcc"/>
+      <rect id="Rectangle_665" data-name="Rectangle 665" width="7" height="4" rx="2" transform="translate(35 50)" fill="#29afcc"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="38.969" viewBox="0 0 140 38.969">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="34.639" height="34.639" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_7" data-name="Path 7" d="M8.773,3A5.772,5.772,0,0,0,3,8.773V28.979a5.772,5.772,0,0,0,5.773,5.773h6.589L22.391,3Z" transform="translate(-3 -3)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-15.336" y1="-3.506" x2="-15.299" y2="-3.506" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#58d3cc"/>
+      <stop offset="1" stop-color="#4ab6ff"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path id="Path_8" data-name="Path 8" d="M31.159,7,24.13,38.753H37.748a5.772,5.772,0,0,0,5.773-5.773V12.773A5.772,5.772,0,0,0,37.748,7Z" transform="translate(-24.13 -7)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-16.122" y1="-3.597" x2="-16.085" y2="-3.597" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4087e3"/>
+      <stop offset="1" stop-color="#8e41f9"/>
+    </linearGradient>
+  </defs>
+  <g id="Ploton_logo_name_long_black" transform="translate(70 19.485)">
+    <g id="Group_10" data-name="Group 10" transform="translate(-70 -19.485)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="140" height="38.969" fill="#fff" opacity="0"/>
+      <g id="Group_1" data-name="Group 1" transform="translate(50.561 9.878)">
+        <path id="Path_1" data-name="Path 1" d="M82.817,23.5a5.176,5.176,0,0,1-2.164,2.05,7.609,7.609,0,0,1-3.622.78H74.365v6.339h-4.3V15.013h6.968a7.927,7.927,0,0,1,3.571.729,5.02,5.02,0,0,1,2.189,2.013,5.847,5.847,0,0,1,.73,2.943A5.688,5.688,0,0,1,82.817,23.5Zm-4.276-1.17a2.157,2.157,0,0,0,.6-1.635,2.157,2.157,0,0,0-.6-1.635,2.566,2.566,0,0,0-1.836-.578h-2.34v4.427H76.7A2.56,2.56,0,0,0,78.54,22.332Z" transform="translate(-70.063 -14.057)"/>
+        <path id="Path_2" data-name="Path 2" d="M96.115,13.688V32.3h-4.3V13.688Z" transform="translate(-76.117 -13.688)"/>
+        <path id="Path_3" data-name="Path 3" d="M104.445,33.311a6.444,6.444,0,0,1-2.591-2.515,7.521,7.521,0,0,1-.943-3.823,7.455,7.455,0,0,1,.955-3.811,6.494,6.494,0,0,1,2.616-2.529,8.318,8.318,0,0,1,7.446,0,6.494,6.494,0,0,1,2.616,2.529,7.456,7.456,0,0,1,.956,3.811,7.381,7.381,0,0,1-.968,3.81,6.546,6.546,0,0,1-2.641,2.528,7.9,7.9,0,0,1-3.736.881A7.75,7.75,0,0,1,104.445,33.311Zm5.811-3.748a3.6,3.6,0,0,0,.868-2.591,3.667,3.667,0,0,0-.843-2.591,2.86,2.86,0,0,0-4.163-.012,3.692,3.692,0,0,0-.83,2.6,3.738,3.738,0,0,0,.818,2.591,2.646,2.646,0,0,0,2.049.9A2.8,2.8,0,0,0,110.256,29.563Z" transform="translate(-78.65 -15.376)"/>
+        <path id="Path_4" data-name="Path 4" d="M131.725,29.1v3.648h-2.188a5.356,5.356,0,0,1-3.648-1.145,4.729,4.729,0,0,1-1.308-3.735V22.284H122.87V18.712h1.711V15.291h4.3v3.421H131.7v3.571h-2.817v5.635a1.176,1.176,0,0,0,.3.9,1.467,1.467,0,0,0,1.006.277Z" transform="translate(-84.762 -14.134)"/>
+        <path id="Path_5" data-name="Path 5" d="M140.8,33.311a6.449,6.449,0,0,1-2.591-2.515,7.521,7.521,0,0,1-.943-3.823,7.455,7.455,0,0,1,.955-3.811,6.5,6.5,0,0,1,2.616-2.529,8.318,8.318,0,0,1,7.446,0,6.5,6.5,0,0,1,2.616,2.529,7.463,7.463,0,0,1,.956,3.811,7.381,7.381,0,0,1-.968,3.81,6.55,6.55,0,0,1-2.641,2.528,7.9,7.9,0,0,1-3.736.881A7.75,7.75,0,0,1,140.8,33.311Zm5.811-3.748a3.6,3.6,0,0,0,.867-2.591,3.663,3.663,0,0,0-.842-2.591,2.86,2.86,0,0,0-4.163-.012,3.692,3.692,0,0,0-.831,2.6,3.738,3.738,0,0,0,.818,2.591,2.645,2.645,0,0,0,2.049.9A2.806,2.806,0,0,0,146.611,29.563Z" transform="translate(-88.769 -15.376)"/>
+        <path id="Path_6" data-name="Path 6" d="M173.143,21.419a6.228,6.228,0,0,1,1.472,4.39v8.2h-4.276V26.388a3.085,3.085,0,0,0-.73-2.189,2.861,2.861,0,0,0-3.925,0,3.082,3.082,0,0,0-.729,2.189V34.01h-4.3V19.974h4.3v1.861a4.535,4.535,0,0,1,1.761-1.471,5.6,5.6,0,0,1,2.49-.541A5.093,5.093,0,0,1,173.143,21.419Z" transform="translate(-95.279 -15.396)"/>
+      </g>
+      <g id="Ploton_logo" transform="translate(2.165 2.165)">
+        <g id="Group_9" data-name="Group 9">
+          <g id="Group_8" data-name="Group 8" clip-path="url(#clip-path)">
+            <g id="Group_3" data-name="Group 3">
+              <g id="Group_2" data-name="Group 2" clip-path="url(#clip-path-2)">
+                <rect id="Rectangle_3" data-name="Rectangle 3" width="19.391" height="31.753" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+              </g>
+            </g>
+            <g id="Group_5" data-name="Group 5" transform="translate(15.248 2.887)">
+              <g id="Group_4" data-name="Group 4" clip-path="url(#clip-path-3)">
+                <rect id="Rectangle_4" data-name="Rectangle 4" width="19.391" height="31.753" transform="translate(0 0)" fill="url(#linear-gradient-2)"/>
+              </g>
+            </g>
+            <g id="Group_7" data-name="Group 7">
+              <g id="Group_6" data-name="Group 6" clip-path="url(#clip-path)">
+                <path id="Path_9" data-name="Path 9" d="M36,34.985h1.082a2.165,2.165,0,0,0,2.165-2.165V27.948l2.706-2.706-2.706-2.706V17.665A2.165,2.165,0,0,0,37.082,15.5H36" transform="translate(-12.186 -6.479)" fill="none" stroke="#fff" stroke-width="2.165"/>
+                <path id="Path_10" data-name="Path 10" d="M15.7,11.5H14.621a2.165,2.165,0,0,0-2.165,2.165v4.871L9.75,21.242l2.706,2.706V28.82a2.165,2.165,0,0,0,2.165,2.165H15.7" transform="translate(-4.879 -5.366)" fill="none" stroke="#fff" stroke-width="2.165"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
